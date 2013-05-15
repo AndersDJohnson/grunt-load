@@ -1,6 +1,6 @@
 {
   "name": "grunt-load",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Load utilities for grunt.",
   "main": "index.js",
   "scripts": {
@@ -17,15 +17,18 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "grunt": "~0.4.1",
     "colors": "~0.6.0-1"
   },
   "devDependencies": {
+    "grunt": "~0.4.1",
     "grunt-cli": "~0.1.8",
     "grunt-contrib-watch": "~0.4.3",
     "grunt-contrib-nodeunit": "~0.1.2",
     "grunt-contrib-jshint": "~0.4.3",
     "grunt-contrib-coffee": "~0.7.0",
     "nodeunit": "~0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
   }
 }
