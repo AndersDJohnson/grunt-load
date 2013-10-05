@@ -1,6 +1,10 @@
 # grunt-load
 
+[![NPM version](https://badge.fury.io/js/grunt-load.png)](http://badge.fury.io/js/grunt-load)
+[![NPM dependencies](https://david-dm.org/AndersDJohnson/grunt-load.png)](https://david-dm.org/AndersDJohnson/grunt-load)
+
 > Load utilities for grunt.
+
 
 ## Getting Started
 
