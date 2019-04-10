@@ -1,6 +1,6 @@
 {
   "name": "grunt-load",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Load utilities for grunt.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "grunt"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
